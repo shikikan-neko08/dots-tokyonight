@@ -1,0 +1,11 @@
+2022/04/07-12:32:22.731 59a Recovering log #24
+2022/04/07-12:32:23.270 59a Level-0 table #27: started
+2022/04/07-12:32:23.403 59a Level-0 table #27: 639160 bytes OK
+2022/04/07-12:32:23.439 59a Delete type=3 #22
+2022/04/07-12:32:23.439 59a Delete type=0 #24
+2022/04/07-12:32:30.628 59a Compacting 1@0 + 1@1 files
+2022/04/07-12:32:37.975 59a Generated table #29@0: 657 keys, 26582 bytes
+2022/04/07-12:32:37.975 59a Compacted 1@0 + 1@1 files => 26582 bytes
+2022/04/07-12:32:41.468 59a compacted to: files[ 0 1 0 0 0 0 0 ]
+2022/04/07-12:32:41.469 59a Delete type=2 #25
+2022/04/07-12:32:41.469 59a Delete type=2 #27

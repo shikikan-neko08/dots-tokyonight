@@ -1,0 +1,11 @@
+2022/04/03-11:22:00.376 92e Recovering log #6
+2022/04/03-11:22:00.499 92e Level-0 table #8: started
+2022/04/03-11:22:00.575 92e Level-0 table #8: 10293 bytes OK
+2022/04/03-11:22:00.583 92e Delete type=0 #6
+2022/04/03-11:22:00.583 92e Delete type=3 #4
+2022/04/03-13:14:25.285 8cc3 Compacting 2@0 + 0@1 files
+2022/04/03-13:14:25.375 8cc3 Generated table #10@0: 34 keys, 3898 bytes
+2022/04/03-13:14:25.375 8cc3 Compacted 2@0 + 0@1 files => 3898 bytes
+2022/04/03-13:14:25.379 8cc3 compacted to: files[ 0 1 0 0 0 0 0 ]
+2022/04/03-13:14:25.410 8cc3 Delete type=2 #8
+2022/04/03-13:14:25.411 8cc3 Delete type=2 #5

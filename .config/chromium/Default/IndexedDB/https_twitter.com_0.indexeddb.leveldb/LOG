@@ -1,0 +1,12 @@
+2022/04/07-12:51:11.495 b4d Recovering log #13
+2022/04/07-12:51:11.497 b4d Level-0 table #15: started
+2022/04/07-12:51:11.524 b4d Level-0 table #15: 1830 bytes OK
+2022/04/07-12:51:11.564 b4d Delete type=0 #13
+2022/04/07-12:51:11.564 b4d Delete type=3 #11
+2022/04/07-15:07:04.923 24cc Compacting 2@0 + 1@1 files
+2022/04/07-15:07:05.027 24cc Generated table #17@0: 108 keys, 2025 bytes
+2022/04/07-15:07:05.027 24cc Compacted 2@0 + 1@1 files => 2025 bytes
+2022/04/07-15:07:05.049 24cc compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/04/07-15:07:05.049 24cc Delete type=2 #15
+2022/04/07-15:07:05.049 24cc Delete type=2 #12
+2022/04/07-15:07:05.049 24cc Delete type=2 #9
